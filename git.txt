@@ -42,3 +42,7 @@ stashing chngs in git pr cherrypick
 git stash list,pop,save,drop
 
 -------------------------------------------------------------
+
+git pull request
+
+=======================================================
